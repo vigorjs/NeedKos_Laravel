@@ -18,7 +18,9 @@ Run in terminal
 6. rm storage
 7. cd ..
 8. php artisan storage:link
-9. php artisan serve
+9. npm install
+10. npm run dev
+11. php artisan serve
 
 ## About Laravel
 
